@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains questions from the 2001 final exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-176-cellular-and-molecular-immunology-fall-2005/c895b346eca52cee8e4a1935ae62ab8b_2001_midt_exam.pdf
+file: /media/courses/hst-176-cellular-and-molecular-immunology-fall-2005/c895b346eca52cee8e4a1935ae62ab8b_2001_midt_exam.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 2001_midt_exam.pdf
 uid: c895b346-eca5-2cee-8e4a-1935ae62ab8b

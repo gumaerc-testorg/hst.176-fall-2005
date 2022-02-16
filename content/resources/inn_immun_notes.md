@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource provides information on the immune system and the innate
   immunity.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-176-cellular-and-molecular-immunology-fall-2005/b731d9564a74a131b6cb571a44190dfa_inn_immun_notes.pdf
+file: /media/courses/hst-176-cellular-and-molecular-immunology-fall-2005/b731d9564a74a131b6cb571a44190dfa_inn_immun_notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: inn_immun_notes.pdf
 uid: b731d956-4a74-a131-b6cb-571a44190dfa
