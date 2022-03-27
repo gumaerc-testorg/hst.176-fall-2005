@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 70516006-6b3c-70dc-617b-15f2e4eda35c
 resourcetype: Document
 title: lymphocytehoming.pdf
 uid: ac4d7757-58e3-c596-bfee-af74a9df000a

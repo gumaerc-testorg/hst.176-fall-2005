@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 8776bb0d-54c7-c81e-0013-68ea5a30583d
 resourcetype: Document
 title: 2002_fin_exa_sol.pdf
 uid: 63c8d6b3-70ed-1cc9-ec80-24bcaa01b1ce

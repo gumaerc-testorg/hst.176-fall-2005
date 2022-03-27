@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 70516006-6b3c-70dc-617b-15f2e4eda35c
 resourcetype: Document
 title: immuneaids.pdf
 uid: 734118bd-19ef-9a61-6087-d3e6504d55c6

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 70516006-6b3c-70dc-617b-15f2e4eda35c
 resourcetype: Document
 title: antibodies_2005.pdf
 uid: b9ae32bc-a24e-7328-88fe-32abd4ebef44

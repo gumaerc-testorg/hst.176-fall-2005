@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 70516006-6b3c-70dc-617b-15f2e4eda35c
 resourcetype: Document
 title: dendrite_cell_notes.pdf
 uid: 2ba3e211-61ac-06b1-e314-6ad0749845d3

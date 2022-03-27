@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 8776bb0d-54c7-c81e-0013-68ea5a30583d
 resourcetype: Document
 title: 2003_mid_ans.pdf
 uid: 24a956b7-a5c2-ca32-58ec-2a9fdd874a8a

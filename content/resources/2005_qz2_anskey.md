@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 8776bb0d-54c7-c81e-0013-68ea5a30583d
 resourcetype: Document
 title: 2005_qz2_anskey.pdf
 uid: b143caef-c6cc-d968-197e-dae50d3762d1

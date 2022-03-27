@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 70516006-6b3c-70dc-617b-15f2e4eda35c
 resourcetype: Document
 title: hdt_anti_recep.pdf
 uid: d755c7c4-8194-cd88-8091-2b00989eeca0

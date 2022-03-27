@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 70516006-6b3c-70dc-617b-15f2e4eda35c
 resourcetype: Document
 title: hdt_ant_bodi_gen.pdf
 uid: 6e84dcf1-f3f1-1131-0392-e339c7439e32

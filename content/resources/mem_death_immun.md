@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 70516006-6b3c-70dc-617b-15f2e4eda35c
 resourcetype: Document
 title: mem_death_immun.pdf
 uid: 2c2ec547-6cef-6dc5-e65e-3d6bf6b381fa
