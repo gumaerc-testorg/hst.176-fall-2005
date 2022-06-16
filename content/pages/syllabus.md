@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an overview of the course along with further information
+  on tutorials, texts, exams and grades.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

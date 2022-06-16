@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the required and optional readings
+  along with the discussion papers.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
