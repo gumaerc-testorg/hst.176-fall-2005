@@ -5,6 +5,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/8b7b9fc12dd51
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: probset1_sols.pdf
 uid: 8b7b9fc1-2dd5-1165-279a-a29734dc6896
 ---
 This resource provides the solutions to problem set 1.
-

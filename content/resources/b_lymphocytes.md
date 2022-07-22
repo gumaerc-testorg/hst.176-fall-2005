@@ -7,6 +7,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/92754a2204e6c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: b_lymphocytes.pdf
 uid: 92754a22-04e6-c049-e25f-041dd5fc2389
 ---
 This resource provides information on cell selection, allelic exclusion, clonal deletion and receptor editing, positive selection (part 2) and peripheral maturation.
-

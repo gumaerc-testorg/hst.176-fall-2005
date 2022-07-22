@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/55541d9ff013a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hdt_anti_dep.pdf
 uid: 55541d9f-f013-a07b-2527-a955a2229ce6
 ---
 This resource provides information on the topic: Antibody Dependent Protection Mechanisms.
-

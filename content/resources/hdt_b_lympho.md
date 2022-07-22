@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/50c3cbe29bc39
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hdt_b_lympho.pdf
 uid: 50c3cbe2-9bc3-932a-d32b-7251433f56dc
 ---
 This resource provides information on the topic: B Lymphocyte Dev and Activation.
-

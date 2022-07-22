@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/24a956b7a5c2c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 2003_mid_ans.pdf
 uid: 24a956b7-a5c2-ca32-58ec-2a9fdd874a8a
 ---
 This resource contains questions from the 2003 Midterms alongwith the answers.
-

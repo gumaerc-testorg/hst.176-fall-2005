@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: The final stage of apoptosis.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-176f05-th.jpg
 uid: 0a459320-7bb2-4d67-2993-c36cf1375472
 ---
 New image Upload
-

@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/774cea880ad40
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: gen_sus_infect.pdf
 uid: 774cea88-0ad4-0cab-1514-110b4319be4c
 ---
 This resource provides information on immunodeficiency and susceptibility to infection.
-

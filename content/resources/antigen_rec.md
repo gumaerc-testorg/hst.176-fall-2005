@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/3ec373cd79083
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: antigen_rec.pdf
 uid: 3ec373cd-7908-3599-0778-6828e115960c
 ---
 This resource provides information on the topic: Antigen Receptors and The Generation of Diversity.
-

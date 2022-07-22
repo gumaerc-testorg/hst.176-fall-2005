@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/6540e227380c8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tumor.pdf
 uid: 6540e227-380c-8bbd-b9e4-e1f6d28ab768
 ---
 This resource provides information on immunosurveillance and melanoma antigens.
-

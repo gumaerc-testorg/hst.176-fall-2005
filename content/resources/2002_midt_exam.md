@@ -5,6 +5,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/a77874494ff31
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2002_midt_exam.pdf
 uid: a7787449-4ff3-1808-996a-841c078dd79c
 ---
 This resource contains question set for the 2002 Midterm exams.
-

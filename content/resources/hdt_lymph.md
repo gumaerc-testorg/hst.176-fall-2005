@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/b453d26450fbe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hdt_lymph.pdf
 uid: b453d264-50fb-e577-9557-08d5545970ff
 ---
 This resource provides information T lymphocyte development, and MHC restriction.
-

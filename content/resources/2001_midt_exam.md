@@ -5,6 +5,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/c895b346eca52
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2001_midt_exam.pdf
 uid: c895b346-eca5-2cee-8e4a-1935ae62ab8b
 ---
 This resource contains questions from the 2001 final exam.
-

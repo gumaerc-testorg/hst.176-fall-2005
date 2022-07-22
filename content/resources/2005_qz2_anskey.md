@@ -5,6 +5,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/b143caefc6ccd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2005_qz2_anskey.pdf
 uid: b143caef-c6cc-d968-197e-dae50d3762d1
 ---
 This resource contains another quiz for the year 2005.
-

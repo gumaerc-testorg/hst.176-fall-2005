@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/6ca409fb73ee5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: probset1.pdf
 uid: 6ca409fb-73ee-5453-19f2-604222520f4c
 ---
 This resource provides a problem set and some questions on the topic: Clinical Correlates.
-

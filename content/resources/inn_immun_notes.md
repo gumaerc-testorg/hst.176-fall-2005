@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/b731d9564a74a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: inn_immun_notes.pdf
 uid: b731d956-4a74-a131-b6cb-571a44190dfa
 ---
 This resource provides information on the immune system and the innate immunity.
-

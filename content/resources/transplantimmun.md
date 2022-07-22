@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/1500dcc826f82
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: transplantimmun.pdf
 uid: 1500dcc8-26f8-2faf-09d4-9673ff6e036c
 ---
 This resource provides information on the objectives and study questions for transplantation immunology.
-

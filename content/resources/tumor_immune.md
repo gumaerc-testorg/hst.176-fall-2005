@@ -6,6 +6,7 @@ file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/6575ae91818fb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tumor_immune.pdf
 uid: 6575ae91-818f-bbdf-ccbf-829063961b34
 ---
 This resource provides information on tumor antigens, immune responses to tumors and evasion of immune responses to tumors.
-
