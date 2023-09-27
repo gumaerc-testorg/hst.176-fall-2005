@@ -26,7 +26,7 @@
     "website": "hst-176-cellular-and-molecular-immunology-fall-2005"
   },
   "course_title": "Cellular and Molecular Immunology",
-  "course_description": "This course covers cells and tissues of the immune system, lymphocyte development, the structure and function of antigen receptors, the cell biology of antigen processing and presentation, including molecular structure and assembly of MHC molecules, the biology of cytokines, leukocyte-endothelial interactions, and the pathogenesis of immunologically mediated diseases. The course is structured as a series of lectures and tutorials in which clinical cases are discussed with faculty tutors.\n\n##### {{< anchor \"lecturers\" >}}{{< /anchor >}}Lecturers\n\nFrederick W. Alt\n\nMarcus Altfeld\n\nPaul Anderson\n\nJon C. Aster\n\nHugh Auchincloss\n\nSteven P. Balk\n\nSamuel M. Behar\n\nRichard S. Blumberg\n\nFrancisco Bonilla\n\nBobby Cherayil\n\nBenjamin Davis\n\nDavid Hafler\n\nNir Harcohen\n\nBruce Horwitz\n\nDavid M. Lee\n\nAndrew Lichtman\n\nDiane Mathis\n\nRichard Mitchell\n\nHidde Ploegh\n\nEmmett Schmidt\n\nArlene Sharpe\n\nMegan Sykes\n\nShannon Turley\n\nDale T. Umetsu\n\nUlrich von Andrian\n\nBruce Walker\n\nKai Wucherpfennig\n\nRamnik Xavier\n\nSarah Henrickson\n",
+  "course_description": "This course covers cells and tissues of the immune system, lymphocyte development, the structure and function of antigen receptors, the cell biology of antigen processing and presentation, including molecular structure and assembly of MHC molecules, the biology of cytokines, leukocyte-endothelial interactions, and the pathogenesis of immunologically mediated diseases. The course is structured as a series of lectures and tutorials in which clinical cases are discussed with faculty tutors.\n\n**Lecturers**\n\nFrederick W. Alt, Marcus Altfeld, Paul Anderson, Jon C. Aster, Hugh Auchincloss, Steven P. Balk, Samuel M. Behar, Richard S. Blumberg, Francisco Bonilla, Bobby Cherayil, Benjamin Davis, David Hafler, Nir Harcohen, Bruce Horwitz, David M. Lee, Andrew Lichtman, Diane Mathis, Richard Mitchell, Hidde Ploegh, Emmett Schmidt, Arlene Sharpe, Megan Sykes, Shannon Turley, Dale T. Umetsu, Ulrich von Andrian, Bruce Walker, Kai Wucherpfennig, Ramnik Xavier, Sarah Henrickson",
   "department_numbers": [
     "HST"
   ],
@@ -39,6 +39,7 @@
   "learning_resource_types": [
     "Lecture Notes"
   ],
-  "site_uid": "efba7cbe-a885-458b-803b-0427658c0ae7",
+  "site_uid": "9e456a19-7515-496d-9309-f1c7ffd6f462",
+  "site_short_id": "hst.176-fall-2005",
   "title": "Course Metadata"
 }
