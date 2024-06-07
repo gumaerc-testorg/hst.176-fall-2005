@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides information on the topic: Lymphocyte Homing in
   the Immune System.'
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/d6217a34ee27dbaf58cf0553235edf66_lymph_homing_lec.pdf
+file_size: 23337
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

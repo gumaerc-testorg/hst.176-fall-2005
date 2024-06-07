@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides information on the goals, overview for the lecture,
   and the B7 : CD28 superfamily.'
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/6cfb87324e51ba617feacc6c197d7b5c_costimulation.pdf
+file_size: 46441
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

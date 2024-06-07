@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains another quiz for the year 2005.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/b143caefc6ccd968197edae50d3762d1_2005_qz2_anskey.pdf
+file_size: 64577
 file_type: application/pdf
 learning_resource_types:
 - Exams

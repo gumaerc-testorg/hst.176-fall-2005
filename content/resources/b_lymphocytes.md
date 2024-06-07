@@ -4,6 +4,7 @@ description: This resource provides information on cell selection, allelic exclu
   clonal deletion and receptor editing, positive selection (part 2) and peripheral
   maturation.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/92754a2204e6c049e25f041dd5fc2389_b_lymphocytes.pdf
+file_size: 60488
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

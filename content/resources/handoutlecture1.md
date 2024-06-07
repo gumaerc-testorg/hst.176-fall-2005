@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the topic: Innate Immunity.'
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/e6823f873f85c106029f82d0a260c4e0_handoutlecture1.pdf
+file_size: 132298
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

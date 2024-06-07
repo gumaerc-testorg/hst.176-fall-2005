@@ -4,6 +4,7 @@ description: This resource provides information on memory and death in the immun
   system, apoptosis, the common death pathway, and antigen receptor mediated apoptosis
   during negative selection.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/2af5fd429fa35118ff62c7a6a41578e4_memorydeath.pdf
+file_size: 119567
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
