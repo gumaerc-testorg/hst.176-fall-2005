@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides information on the topic of: Protein Trafficking/The
   Secretory Pathway, Antigen Presentation Pathway, MHC Proteins and MHC Class I Pathway.'
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/90b016717465cdb960ad8d806d5bb70e_antigen_pres.pdf
+file_size: 92201
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

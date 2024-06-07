@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains question set for the 2002 Midterm exams.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/a77874494ff31808996a841c078dd79c_2002_midt_exam.pdf
+file_size: 22554
 file_type: application/pdf
 learning_resource_types:
 - Exams

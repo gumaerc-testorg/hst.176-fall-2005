@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on common death pathway, mitochondrial
   pathway and proteins of the Bcl-2 family, an death receptor pathway.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/2c2ec5476cef6dc5e65e3d6bf6b381fa_mem_death_immun.pdf
+file_size: 44899
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

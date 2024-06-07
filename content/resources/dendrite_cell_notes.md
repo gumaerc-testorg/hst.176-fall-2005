@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the topic of: Dendritic Cells.'
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/2ba3e21161ac06b1e3146ad0749845d3_dendrite_cell_notes.pdf
+file_size: 20860
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

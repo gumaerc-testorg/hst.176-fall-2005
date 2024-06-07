@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides a question set from 2004 Final Exam.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/13aede9c0e51b38af09b81c43c18e4a6_2004_fin_exam.pdf
+file_size: 137645
 file_type: application/pdf
 learning_resource_types:
 - Exams

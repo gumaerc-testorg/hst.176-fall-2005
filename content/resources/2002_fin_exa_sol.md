@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains questions from the 2002 Final exams, along with
   the solutions.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/63c8d6b370ed1cc9ec8024bcaa01b1ce_2002_fin_exa_sol.pdf
+file_size: 36038
 file_type: application/pdf
 learning_resource_types:
 - Exams

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a quiz with the answer key for the year 2005.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/6f255199ca78cae6ff87e85bd39676e6_2005_qz1_anskey.pdf
+file_size: 50584
 file_type: application/pdf
 learning_resource_types:
 - Exams
