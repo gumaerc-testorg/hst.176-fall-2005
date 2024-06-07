@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information on innocuous antigen and pathogens.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/7aac898ce9926e82240de5d8aad4e9fd_hdt_lymph_act.pdf
+file_size: 175549
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on innate immunity, and lymphocytes
   and the clonal selection hypothesis.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/3240ac6a290efd50cc42dd6afd966606_overviewimmune.pdf
+file_size: 135888
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

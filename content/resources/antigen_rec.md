@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides information on the topic: Antigen Receptors and
   The Generation of Diversity.'
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/3ec373cd7908359907786828e115960c_antigen_rec.pdf
+file_size: 82975
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

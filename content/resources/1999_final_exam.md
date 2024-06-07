@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains questions from the 1999 Final exam.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/9361c5ceb689384610bc69e8d305036e_1999_final_exam.pdf
+file_size: 82940
 file_type: application/pdf
 learning_resource_types:
 - Exams

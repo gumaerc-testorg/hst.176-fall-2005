@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information on the objectives and study questions
   for transplantation immunology.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/1500dcc826f82faf09d49673ff6e036c_transplantimmun.pdf
+file_size: 16058
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

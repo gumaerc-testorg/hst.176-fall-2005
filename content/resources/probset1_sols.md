@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides the solutions to problem set 1.
 file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/8b7b9fc12dd51165279aa29734dc6896_probset1_sols.pdf
+file_size: 200500
 file_type: application/pdf
 learning_resource_types:
 - Assignments
