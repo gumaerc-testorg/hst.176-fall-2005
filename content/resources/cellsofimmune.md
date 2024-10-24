@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on cells of the immune system and
   innate immunity, cells of the immune system, and humoral and extracellular mechanisms
   involved in innate immunity.
-file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/e4b6c2c618e8f7a987dc224f11252219_cellsofimmune.pdf
+file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/e4b6c2c618e8f7a987dc224f11252219_cellsofimmune.pdf
 file_size: 139213
 file_type: application/pdf
 learning_resource_types:
