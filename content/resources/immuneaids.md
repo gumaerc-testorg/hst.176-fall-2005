@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides the objectives and study questions for the topic:
   The Immunology of AIDS.'
-file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/734118bd19ef9a616087d3e6504d55c6_immuneaids.pdf
+file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/734118bd19ef9a616087d3e6504d55c6_immuneaids.pdf
 file_size: 14398
 file_type: application/pdf
 learning_resource_types:

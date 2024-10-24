@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the topic: B Lymphocyte Dev and
   Activation.'
-file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/50c3cbe29bc3932ad32b7251433f56dc_hdt_b_lympho.pdf
+file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/50c3cbe29bc3932ad32b7251433f56dc_hdt_b_lympho.pdf
 file_size: 335310
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a question set for the 2004 Final exam, along
   with the solutions.
-file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/07057db5d63acc2faf439af6ba8b669d_2004_fin_exm_sol.pdf
+file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/07057db5d63acc2faf439af6ba8b669d_2004_fin_exm_sol.pdf
 file_size: 282907
 file_type: application/pdf
 learning_resource_types:
