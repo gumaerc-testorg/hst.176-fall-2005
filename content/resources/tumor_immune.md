@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on tumor antigens, immune responses
   to tumors and evasion of immune responses to tumors.
-file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/6575ae91818fbbdfccbf829063961b34_tumor_immune.pdf
+file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/6575ae91818fbbdfccbf829063961b34_tumor_immune.pdf
 file_size: 42111
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the role of T cell costimulatory
   pathways in regulating immune responses.
-file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/a0784fdc1bb12921ef3b766f11d23a10_reviewcostimulat.pdf
+file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/a0784fdc1bb12921ef3b766f11d23a10_reviewcostimulat.pdf
 file_size: 33566
 file_type: application/pdf
 learning_resource_types:
