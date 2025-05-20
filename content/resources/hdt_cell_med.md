@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the role of cell-mediated immunity,
   properties and types of cell-mediated immunity.
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/eaf8b556926c400476fbfead12e51799_hdt_cell_med.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/eaf8b556926c400476fbfead12e51799_hdt_cell_med.pdf
 file_size: 147078
 file_type: application/pdf
 learning_resource_types:

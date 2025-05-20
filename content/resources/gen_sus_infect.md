@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on immunodeficiency and susceptibility
   to infection.
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/774cea880ad40cab1514110b4319be4c_gen_sus_infect.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/774cea880ad40cab1514110b4319be4c_gen_sus_infect.pdf
 file_size: 121479
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource provides information on the topic: Antibodies.'
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/cb1b962b6c8b5811a4e9e3545bc0f463_antibodies.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/cb1b962b6c8b5811a4e9e3545bc0f463_antibodies.pdf
 file_size: 125431
 file_type: application/pdf
 learning_resource_types:

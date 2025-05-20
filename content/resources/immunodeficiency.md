@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on disorders of lymphocyte development,
   severe combined immunodeficiencies, and combined immunodeficiencies.
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/337b699d89d24aa78211cf6d860d1ca9_immunodeficiency.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/337b699d89d24aa78211cf6d860d1ca9_immunodeficiency.pdf
 file_size: 136742
 file_type: application/pdf
 learning_resource_types:

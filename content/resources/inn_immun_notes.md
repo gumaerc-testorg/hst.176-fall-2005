@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the immune system and the innate
   immunity.
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/b731d9564a74a131b6cb571a44190dfa_inn_immun_notes.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/b731d9564a74a131b6cb571a44190dfa_inn_immun_notes.pdf
 file_size: 58974
 file_type: application/pdf
 learning_resource_types:
