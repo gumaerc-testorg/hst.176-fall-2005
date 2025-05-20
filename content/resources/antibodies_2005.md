@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/b9ae32bca24e732888fe32abd4ebef44_antibodies_2005.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/b9ae32bca24e732888fe32abd4ebef44_antibodies_2005.pdf
 file_size: 41418
 file_type: application/pdf
 learning_resource_types:

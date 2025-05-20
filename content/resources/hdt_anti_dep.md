@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the topic: Antibody Dependent
   Protection Mechanisms.'
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/55541d9ff013a07b2527a955a2229ce6_hdt_anti_dep.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/55541d9ff013a07b2527a955a2229ce6_hdt_anti_dep.pdf
 file_size: 77050
 file_type: application/pdf
 learning_resource_types:

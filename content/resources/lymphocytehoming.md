@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on lymphocyte homing in the immune
   system, the adaptive immune system, and lymphocyte homing.
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/ac4d775758e3c596bfeeaf74a9df000a_lymphocytehoming.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/ac4d775758e3c596bfeeaf74a9df000a_lymphocytehoming.pdf
 file_size: 106343
 file_type: application/pdf
 learning_resource_types:
