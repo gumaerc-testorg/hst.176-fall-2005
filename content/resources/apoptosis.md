@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information on follicular lymphoma and bcl-2 family.
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/0377aa0adad1dbf3aa0bedb725c78c8e_apoptosis.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/0377aa0adad1dbf3aa0bedb725c78c8e_apoptosis.pdf
 file_size: 216283
 file_type: application/pdf
 learning_resource_types:

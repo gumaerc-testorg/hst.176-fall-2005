@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the topic: Innate Immunity vs.
   Adaptive Immunity.'
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/7153e840544a1ab3e8b569e47bc4dba7_handoutlecture2.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/7153e840544a1ab3e8b569e47bc4dba7_handoutlecture2.pdf
 file_size: 198945
 file_type: application/pdf
 learning_resource_types:

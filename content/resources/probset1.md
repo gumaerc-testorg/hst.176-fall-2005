@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides a problem set and some questions on the topic:
   Clinical Correlates.'
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/6ca409fb73ee545319f2604222520f4c_probset1.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/6ca409fb73ee545319f2604222520f4c_probset1.pdf
 file_size: 125913
 file_type: application/pdf
 learning_resource_types:

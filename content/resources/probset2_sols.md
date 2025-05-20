@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides solutions to the problem set on chimeric mice
   and peripheral blood lymphocytes.
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/1749ed28a37a737f59279fe82fdc8e24_probset2_sols.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/1749ed28a37a737f59279fe82fdc8e24_probset2_sols.pdf
 file_size: 226816
 file_type: application/pdf
 learning_resource_types:

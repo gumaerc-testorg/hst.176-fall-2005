@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains questions from the 2001 final exam.
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/c895b346eca52cee8e4a1935ae62ab8b_2001_midt_exam.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/c895b346eca52cee8e4a1935ae62ab8b_2001_midt_exam.pdf
 file_size: 113805
 file_type: application/pdf
 learning_resource_types:

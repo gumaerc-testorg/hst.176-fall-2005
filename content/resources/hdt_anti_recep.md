@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the topic: Antigen Receptors and
   Dev. of Diversity.'
-file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/d755c7c48194cd8880912b00989eeca0_hdt_anti_recep.pdf
+file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/d755c7c48194cd8880912b00989eeca0_hdt_anti_recep.pdf
 file_size: 157290
 file_type: application/pdf
 learning_resource_types:
