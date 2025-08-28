@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information about the topic: T Lymphocyte Development.'
-file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/e546f8e4fc7c102f6aaf4966772fd425_t_lymphocytes.pdf
+file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/e546f8e4fc7c102f6aaf4966772fd425_t_lymphocytes.pdf
 file_size: 52216
 file_type: application/pdf
 learning_resource_types:

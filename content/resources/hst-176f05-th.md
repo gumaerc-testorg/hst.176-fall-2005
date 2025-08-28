@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/0a4593207bb24d672993c36cf1375472_hst-176f05-th.jpg
+file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/0a4593207bb24d672993c36cf1375472_hst-176f05-th.jpg
 file_size: 9010
 file_type: image/jpeg
 image_metadata:
