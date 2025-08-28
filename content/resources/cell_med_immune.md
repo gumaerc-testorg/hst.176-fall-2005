@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on CD4+ T cell mediated macrophage
   activation, Delayed type hypersensitivity (DTH), CD8+ T cells and cytolytic T lymphocyte
   (CTL) responses and the role of Th2 cells in cell mediated immunity.
-file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/463ff2bf0479684ba27b4e1ee943144c_cell_med_immune.pdf
+file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/463ff2bf0479684ba27b4e1ee943144c_cell_med_immune.pdf
 file_size: 47232
 file_type: application/pdf
 learning_resource_types:

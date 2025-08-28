@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the objectives and study questions for the topic:
   Antigen Presentation.'
-file: /courses/hst-176-cellular-and-molecular-immunology-fall-2005/6328463fd40d01a507ce6c1692756f97_antigen.pdf
+file: /ol-ocw-studio-app/courses/hst-176-cellular-and-molecular-immunology-fall-2005/6328463fd40d01a507ce6c1692756f97_antigen.pdf
 file_size: 16638
 file_type: application/pdf
 learning_resource_types:
